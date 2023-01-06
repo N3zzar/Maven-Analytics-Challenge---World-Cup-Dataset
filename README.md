@@ -19,23 +19,23 @@ This contains all the files associated with this project and analysis
 
 -----------
 
-# Project Description
+## Project Description
 
-This was one of the challenge from Maven analytics that i worked on. It feautured a sport domain dataset. Even though the sports domain is not a domain i have enough knowledge on, i wanted to try it out. I embarked on it to make information visually appealing.
+This was a challenge from Maven analytics that i worked on. It feautured a sport domain dataset. Even though the sports domain is not a domain i have enough knowledge on, i wanted to try it out. I embarked on it to present information in a visually appealing format
 
 --------
-# Project Objectives
+## Project Objectives
 
 The objective of this challenge was to Visualize a country's history in the world cup,their road to Qatar, and their expectations for the tournament.
 
 -------
-# Data Gathering
+## Data Gathering
 
 This dataset was already provided by Maven analaytics.
 
 
 -------
-# Data transformation
+## Data transformation
 
 1. Loaded all the dataset i was suppose to load
 2. I converted the data-type to the correct ones for each columns in the data that was loaded
@@ -43,21 +43,21 @@ This dataset was already provided by Maven analaytics.
 
 
 --------
-# Data modelling
+## Data modelling
 
 I made use of Snowflake Schema
 ![image](https://user-images.githubusercontent.com/85373417/211060359-d1903384-c0b7-4abd-8c8a-cf2e848403f9.png)
 
 ---------
-# Data and report limitation
+## Data and report limitation
 
 I didn't really have an advanced knowledge of how to make a snowflake schema.
 
 -----------
-# Dashboard 
+## Dashboard 
 ![image](https://user-images.githubusercontent.com/85373417/211062858-c6310d0c-d47d-4019-aa95-16dfa34a8654.png)
 
 -------------
-# Conclusion
+## Conclusion
 
 One of the roles of being a data analysts is presenting information in a visually apealing and informative format and here is what i set out to achieve while working on this project. I got to implement cool things i learn as well, one of which was use of dynamic DAX et cetera. I also explored the various types of interactions we have like the filter, highlight, none. I also made use of new visuals like map, treemap, decomposition tree. I also used a snowflake schema instead of the common star schema.
