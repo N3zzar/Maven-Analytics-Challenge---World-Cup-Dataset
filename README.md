@@ -31,7 +31,7 @@ The objective of this challenge was to Visualize a country's history in the worl
 -------
 ## Data Gathering
 
-This dataset was already provided by Maven analaytics.
+This dataset had already been provided by Maven analaytics.
 
 
 -------
@@ -40,6 +40,7 @@ This dataset was already provided by Maven analaytics.
 1. Loaded all the dataset i was suppose to load
 2. I converted the data-type to the correct ones for each columns in the data that was loaded
 3. I merged some queries to get a surrogate key to connect some data together
+4. Did some other insignificant cleanings
 
 
 --------
