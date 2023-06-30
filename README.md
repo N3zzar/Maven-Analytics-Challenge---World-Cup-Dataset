@@ -58,6 +58,9 @@ I didn't really have an advanced knowledge of how to make a snowflake schema.
 ## Dashboard 
 ![image](https://user-images.githubusercontent.com/85373417/211062858-c6310d0c-d47d-4019-aa95-16dfa34a8654.png)
 
+![image](https://github.com/N3zzar/Maven-Analytics-Challenge---World-Cup-Dataset/assets/85373417/11872eba-cfd3-4985-91a6-28fbd33bb007)
+
+
 -------------
 ## Conclusion
 
